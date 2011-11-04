@@ -1,0 +1,7 @@
+This is a simple flash card program written in PHP.  Card data is stored in 
+CSV files.  The user has the option of viewing only the front of cards, only 
+the back, randomly front or back, and being presented with cards in a random 
+or in a sequential order.  The user can flag missed cards for further study.  
+The goal of this project is simple implementation, a small set of features that
+are very useful for studying, especially language study, and very fast 
+flipping of cards over the Internet.
