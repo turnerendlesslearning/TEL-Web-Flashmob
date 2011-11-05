@@ -21,8 +21,7 @@
 <head>
 <title>TEL Flashcards - Mobile</title>
 <meta http-equi="Content-type" content="text/html;charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-
+<meta name="viewport" content="width=320" />
 
 <script type="text/javascript">
 	function showAnswer() {

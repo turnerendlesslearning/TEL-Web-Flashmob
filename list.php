@@ -30,6 +30,7 @@ function db_open() {
 <head>
 <title>TEL Flashcards - Mobile</title>
 <meta http-equi="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=320" />
 <style type="text/css">
   body, td, input {
     font-size:9px; 
